@@ -3,3 +3,9 @@ je cree mon premier fichier de ProjetTest
 Voici la documentation de GIT
 https://git-scm.com/doc
 
+git push -u origin master
+git init
+git pull
+git status
+git merge
+
