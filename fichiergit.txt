@@ -4,9 +4,14 @@ Voici la documentation de GIT
 https://git-scm.com/doc
 
 
+
 pour faire git merge : git merge[nom de depot ]/[branche]
 git push -u origin master
 git init
+
+git push -u origin master 	: permet de mettre en ligne les modifications appartées
+git init			: initialise le suivi du dossier en cour
+
 git pull
 git status
 git merge
