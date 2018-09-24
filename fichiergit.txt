@@ -5,4 +5,10 @@ https://git-scm.com/doc
 
 
 pour faire git merge : git merge[nom de depot ]/[branche]
+git push -u origin master
+git init
+git pull
+git status
+git merge
+
 
