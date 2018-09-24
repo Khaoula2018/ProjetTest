@@ -1,1 +1,5 @@
 je cree mon premier fichier de ProjetTest
+
+Voici la documentation de GIT
+https://git-scm.com/doc
+
